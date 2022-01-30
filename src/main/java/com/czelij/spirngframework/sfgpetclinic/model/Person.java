@@ -1,22 +1,22 @@
 package com.czelij.spirngframework.sfgpetclinic.model;
 
 public class Person {
-    private string fistName;
-    private string lastName;
+    private String fistName;
+    private String lastName;
 
-    public string getFistName() {
+    public String getFistName() {
         return fistName;
     }
 
-    public void setFistName(string fistName) {
+    public void setFistName(String fistName) {
         this.fistName = fistName;
     }
 
-    public string getLastName() {
+    public String getLastName() {
         return lastName;
     }
 
-    public void setLastName(string lastName) {
+    public void setLastName(String lastName) {
         this.lastName = lastName;
     }
 }
