@@ -1,4 +1,4 @@
-package com.czelij.spirngframework.sfgpetclinic.model;
+package model;
 
 public class Person {
     private String fistName;

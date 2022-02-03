@@ -1,4 +1,4 @@
-package com.czelij.spirngframework.sfgpetclinic.model;
+package model;
 
 public class PetType {
     private String name;

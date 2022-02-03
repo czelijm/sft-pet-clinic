@@ -1,4 +1,4 @@
-package com.czelij.spirngframework.sfgpetclinic.model;
+package model;
 
 import java.time.LocalDate;
 
